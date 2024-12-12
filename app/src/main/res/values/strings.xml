@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">GestProd</string>
+    <string name="alert_msg">Required permissions for this feature were denied. Go to app settings to turn it enable.</string>
+    <string name="gallery_toast_msg">Required permission to select image from gallery was denied.</string>
+    <string name="et_reference_hint">Product reference</string>
+    <string name="et_description_hint">Product price</string>
+    <string name="et_quantity_hint">Product quantity</string>
+    <string name="add_product_activity_title">Add a product</string>
+    <string name="home_activity_title">Product Management</string>
+    <string name="photo_dialogue_item1">Select photo from Gallery</string>
+    <string name="photo_dialogue_item2">Capture photo from Camera</string>
+    <string name="delete_product">Delete</string>
+    <string name="delete_product_activity_title">Delete product</string>
+    <string name="search_product">Search</string>
+    <string name="search_product_activity_title">Search product</string>
+    <string name="update_product_activity_title">Update product</string>
+    <string name="back_to_home">Back to Home</string>
+    <string name="add_product">Add the product</string>
+    <string name="update_product">Update product</string>
+    <string name="welcome_sign_up_text">Welcome,\nSign Up to continue</string>
+    <string name="welcome_sign_in_text">Welcome,\nSign in to continue</string>
+</resources>

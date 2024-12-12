@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GestProd</string>
+    <string name="alert_msg">Les autorisations requises pour cette fonctionnalité ont été refusées. Accédez aux paramètres de l\'application pour l\'activer.</string>
+    <string name="gallery_toast_msg">L\'autorisation requise pour sélectionner une image dans la galerie a été refusée.</string>
+    <string name="et_reference_hint">Référence du produit</string>
+    <string name="et_description_hint">Prix du produit</string>
+    <string name="et_quantity_hint">Quantité du produit</string>
+    <string name="add_product_activity_title">Ajouter un produit</string>
+    <string name="photo_dialogue_item1">Sélectionnez une photo dans la galerie</string>
+    <string name="photo_dialogue_item2">Capturer une photo depuis l\'appareil photo</string>
+    <string name="home_activity_title">Gestion des produits</string>
+    <string name="delete_product">Supprimer</string>
+    <string name="delete_product_activity_title">Supprimer un produit</string>
+    <string name="search_product">Chercher</string>
+    <string name="search_product_activity_title">Chercher un produit</string>
+    <string name="update_product_activity_title">Mettre à jour un produit</string>
+    <string name="back_to_home">Retour à l\'accueil</string>
+    <string name="add_product">Ajouter le produit</string>
+    <string name="update_product">Modifier le produit</string>
+    <string name="welcome_sign_up_text">Bienvenue,\Inscrivez-vous pour continuer</string>
+    <string name="welcome_sign_in_text">Bienvenue,\Connectez-vous pour continuer</string>
+</resources>

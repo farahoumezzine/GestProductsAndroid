@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/allerta_stencil</item>
+        <item>@font/andika</item>
+        <item>@font/arima_madurai_bold</item>
+        <item>@font/black_ops_one</item>
+        <item>@font/days_one</item>
+    </array>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "174888289721",
+    "project_id": "gestproddatabase",
+    "storage_bucket": "gestproddatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174888289721:android:7f83e956906a4516862268",
+        "android_client_info": {
+          "package_name": "com.example.gestprod"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzjMAXRWpuSzN2kl8sKbK6Sr6T9emugwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
